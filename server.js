@@ -1,4 +1,3 @@
-npm install express cors socket.io bcryptjs jsonwebtoken sqlite3
 const express = require('express');
 const cors = require('cors');
 const http = require('http');
